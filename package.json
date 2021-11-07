@@ -1,0 +1,19 @@
+{
+  "name": "eth-getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.7",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.6.8"
+  },
+  "scripts": {
+    "app": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
